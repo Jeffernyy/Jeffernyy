@@ -16,7 +16,7 @@
 ✉️ &nbsp;You can shoot me an email at jefferndullamalinao@gmail.com! I'll try to respond as soon as I can. <br>
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img align="left" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="image"/>
+<img align="right" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="image"/>
 
 
 ## 🌐 Socials:
