@@ -1,5 +1,19 @@
+<figure>
+  <img/>
+</figure>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0BF700&center=true&vCenter=true&multiline=true&width=435&lines=Hello+there%2C+I'm+Jeffern+%F0%9F%91%8B" alt="Typing SVG" /></a>
+
 # 💫 About Me:
 🔭 I’m currently working on Rakk Travel Philippines<br><br>🌱 I’m currently learning React, javascript, responsive design<br><br>👨‍💻 All of my projects are available at https://jeffernnyyportfolio.com<br><br>📫 How to reach me jefferndullamalinao@gmail.com<br><br>⚡ Fun fact I think I am a funny developer.
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 
 ## 🌐 Socials:
