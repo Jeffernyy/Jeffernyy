@@ -1,9 +1,9 @@
-<figure>
-  <img/>
-</figure>
+<div align="center">
+  <img src="" alt="" />
+</div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=0BF700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+there%2C+I'm+Jeffern+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=1000&color=0BF700&center=true&vCenter=true&width=700&height=90&lines=Hello+there%2C+I'm+Jeffern+%F0%9F%91%8B;Your+humble+Web+Developer+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </div>
 
 # 💫 About Me:
