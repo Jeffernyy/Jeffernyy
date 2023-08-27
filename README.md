@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="[https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png](https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png)" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 
 <div align="center">
