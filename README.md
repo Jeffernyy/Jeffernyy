@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jeffern</h1>
-<h3 align="center">A passionate frontend web developer from Philippines.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffernyy&label=Profile%20views&color=0e75b6&style=flat" alt="jeffernyy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffernyy" alt="jeffernyy" /></a> </p>
-
 # 💫 About Me:
 🔭 I’m currently working on Rakk Travel Philippines<br><br>🌱 I’m currently learning React, javascript, responsive design<br><br>👨‍💻 All of my projects are available at https://jeffernnyyportfolio.com<br><br>📫 How to reach me jefferndullamalinao@gmail.com<br><br>⚡ Fun fact I think I am a funny developer.
 
@@ -19,11 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jeffernyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffernyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jeffernyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jeffernyy&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
@@ -32,8 +25,3 @@
 [![](https://visitcount.itsvg.in/api?id=Jeffernyy&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-Jeffernyy/Jeffernyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
