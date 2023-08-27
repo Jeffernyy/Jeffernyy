@@ -16,6 +16,8 @@
 ✉️ &nbsp;You can shoot me an email at jefferndullamalinao@gmail.com! I'll try to respond as soon as I can. <br>
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
+<img align="left" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="image"/>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jeffern.malinao.90) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeff-malinao-087178222) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://www.instagram.com/jeffernyy7991) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCGGU7ndi9hxgXZIWqBG5xJA) 
