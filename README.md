@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-<img align="right" src="https://camo.githubusercontent.com/f8602c41edfdde9881ec3b82ffb22faebd3e8437ea05e0dd85eec4584eb11174/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f68733442536163464b493741373137792f67697068792e676966" alt="image"/>
+<img align="right" width="300px" height="300px" src="https://camo.githubusercontent.com/f8602c41edfdde9881ec3b82ffb22faebd3e8437ea05e0dd85eec4584eb11174/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f68733442536163464b493741373137792f67697068792e676966" alt="image"/>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks. <br>
 🎓 &nbsp;I'm currently studying Information System and Mathematics at the University of Northlink Technological College. <br>
