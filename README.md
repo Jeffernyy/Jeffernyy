@@ -2,7 +2,9 @@
   <img/>
 </figure>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0BF700&center=true&vCenter=true&multiline=true&width=435&lines=Hello+there%2C+I'm+Jeffern+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0BF700&center=true&vCenter=true&multiline=true&width=435&lines=Hello+there%2C+I'm+Jeffern+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
 
 # 💫 About Me:
 🔭 I’m currently working on Rakk Travel Philippines<br><br>🌱 I’m currently learning React, javascript, responsive design<br><br>👨‍💻 All of my projects are available at https://jeffernnyyportfolio.com<br><br>📫 How to reach me jefferndullamalinao@gmail.com<br><br>⚡ Fun fact I think I am a funny developer.
