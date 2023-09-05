@@ -10,13 +10,13 @@
 
 <img align="right" width="250px" height="250px" src="https://camo.githubusercontent.com/f8602c41edfdde9881ec3b82ffb22faebd3e8437ea05e0dd85eec4584eb11174/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f68733442536163464b493741373137792f67697068792e676966" alt="image"/>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks. <br>
-🎓 &nbsp;I'm currently studying Information System and Mathematics at the University of Northlink Technological College. <br>
+💡 &nbsp;I like to explore new technologies and develop business solutions and quick hacks. <br>
+🎓 &nbsp;I'm currently studying Information Systems and Web Development at the University of Northlink Technological College. <br>
 🌱 &nbsp;I'm on track for learning more about Web Development, WordPress Development, and Web Designing. <br>
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles. <br>
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion. <br>
+💬 &nbsp;Feel free to reach out for consulting and volunteering, or just for some interesting discussion. <br>
 ✉️ &nbsp;You can shoot me an email at jefferndullamalinao@gmail.com! I'll try to respond as soon as I can. <br>
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Portfolio](https://personal-portfolio-bwb.pages.dev) for more details about me. I'm open to feedback and suggestions!
 
 
 ## 🌐 Socials:
