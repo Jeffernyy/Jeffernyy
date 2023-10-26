@@ -8,7 +8,7 @@
 
 
 
-# 💫 About Me:
+# 👦 Who I am:
 
 <img align="right" width="250px" height="250px" src="https://camo.githubusercontent.com/f8602c41edfdde9881ec3b82ffb22faebd3e8437ea05e0dd85eec4584eb11174/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f68733442536163464b493741373137792f67697068792e676966" alt="image"/>
 
@@ -33,9 +33,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jeffernyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jeffernyy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffernyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffernyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeffernyy&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffernyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
