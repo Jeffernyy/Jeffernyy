@@ -49,7 +49,7 @@
 
 
 
-# :trollface: Random Dev Meme
+# <img class="emoji" title=":trollface:" alt=":trollface:" src="https://github.githubassets.com/images/icons/emoji/trollface.png" height="50" width="40" align="absmiddle"> Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
