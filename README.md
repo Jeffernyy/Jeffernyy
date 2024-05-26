@@ -44,12 +44,3 @@
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-# <img class="emoji" title=":trollface:" alt=":trollface:" src="https://github.githubassets.com/images/icons/emoji/trollface.png" height="50" width="40" align="absmiddle"> Random Dev Meme
-
-
-
-# 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=Jeffernyy&icon=0&color=3)](https://visitcount.itsvg.in)
